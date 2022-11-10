@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bc-0dp Enterprise Solution Architect at BigCommerce
-
+- I also live over here, https://github.com/0dp
 
 <!---
 bc-0dp/bc-0dp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
